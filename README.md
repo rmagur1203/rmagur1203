@@ -1,6 +1,9 @@
-### Hi there 👋
+![rmagur1203's github stats](https://github-readme-stats.vercel.app/api?username=rmagur1203&show_icons=true&count_private=true&color=gradient)
+<br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmagur1203&color=gradient)
 
 <!--
+### Hi there 👋
 **rmagur1203/rmagur1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
