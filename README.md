@@ -1,6 +1,10 @@
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Frmagur1203%2Frmagur1203&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=true)](https://hits.seeyoufarm.com)
+<br>
 ![rmagur1203's github stats](https://github-readme-stats.vercel.app/api?username=rmagur1203&show_icons=true&count_private=true&color=gradient)
 <br>
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmagur1203&color=gradient)
+<br>
+![Hits](https://hits.seeyoufarm.com/api/count/graph/dailyhits.svg?url=https://github.com/rmagur1203/rmagur1203)
 
 <!--
 ### Hi there 👋
