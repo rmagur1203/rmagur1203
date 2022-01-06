@@ -1,5 +1,7 @@
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmagur1203&color=gradient)
+![rmagur1203's github stats](https://github-readme-stats.vercel.app/api?username=rmagur1203&show_icons=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmagur1203&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
 
+![trophy](https://github-profile-trophy.vercel.app/?username=rmagur1203)
 <!--
 ### Hi there 👋
 **rmagur1203/rmagur1203** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
