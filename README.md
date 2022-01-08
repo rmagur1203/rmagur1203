@@ -1,8 +1,9 @@
-![rmagur1203's github stats](https://github-readme-stats.vercel.app/api?username=rmagur1203&show_icons=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmagur1203&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact)
+<h1>rmagur1203</h1>
 
-![trophy](https://github-profile-trophy.vercel.app/?username=rmagur1203)
-<img align='left' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rmagur1203">
+<img align='left' src="https://github-readme-stats.vercel.app/api?username=rmagur1203&show_icons=true">
+<img align='right' src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmagur1203&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact">
+<img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rmagur1203">
+<img align='left' src="https://github-profile-trophy.vercel.app/?username=rmagur1203">
 
 <!--
 ### Hi there 👋
