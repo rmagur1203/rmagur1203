@@ -39,7 +39,5 @@
 
 ## Accounts
 
-<div style="display: inline-block">
-  <a href="https://discord.com/users/274116806795329538"><img src="https://img.shields.io/badge/Discord-5865F2?logoColor=FFFFFF&logo=Discord&style=flat-square"> &nbsp;</a>
-  <a href="https://rmagur1203.tistory.com/"><img src="https://img.shields.io/badge/Tistory-000000?logoColor=FFFFFF&logo=Tistory&style=flat-square"> &nbsp;</a>
-</div>
+[![Discord](https://img.shields.io/badge/Discord-5865F2?logoColor=FFFFFF&logo=Discord&style=flat-square)](https://discord.com/users/274116806795329538)
+[![Tistory](https://img.shields.io/badge/Tistory-000000?logoColor=FFFFFF&logo=Tistory&style=flat-square)](https://rmagur1203.tistory.com/)
