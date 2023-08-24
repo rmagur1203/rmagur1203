@@ -1,8 +1,12 @@
 <div>
   <img align='left' width="50%" src="https://github-readme-stats.vercel.app/api?username=rmagur1203&show_icons=true">
-  <img align='left' width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmagur1203&hide=tex&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact">
+  <!--<img align='left' width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rmagur1203&hide=tex&show_icons=true&hide_border=true&title_color=004386&icon_color=004386&layout=compact">-->
+  <img align='left' width="50%" src="https://github-readme-stats.vercel.app/api/wakatime?username=rmagur1203&layout=compact">
   <!--<img align='left' width="100%" src="https://github-profile-trophy.vercel.app/?username=rmagur1203">-->
 </div>
+
+## Introduction
+I am a backend developer currently studying at Sunrin Internet High School.
 
 ## Tech Stacks
 
