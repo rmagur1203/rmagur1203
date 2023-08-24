@@ -14,18 +14,19 @@
   <img src="https://img.shields.io/badge/Python-3776AB?logoColor=FFFFFF&logo=Python&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?logoColor=FFFFFF&logo=Javascript&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/TypeScript-3178C6?logoColor=FFFFFF&logo=TypeScript&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Dart-0175C2?logoColor=FFFFFF&logo=Dart&style=flat-square"> &nbsp;
   <br>
+  <!-- Framework -->
   <img src="https://img.shields.io/badge/.NET-512BD4?logoColor=FFFFFF&logo=.NET&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Xamarin-3498DB?logoColor=FFFFFF&logo=Xamarin&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?logoColor=FFFFFF&logo=Node.js&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Express-000000?logoColor=FFFFFF&logo=express&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?logoColor=FFFFFF&logo=React&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?logoColor=FFFFFF&logo=React&style=flat-square"> &nbsp;
-  <br>
-  <!-- Framework -->
   <img src="https://img.shields.io/badge/Unity-000000?logoColor=FFFFFF&logo=Unity&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logoColor=FFFFFF&logo=TensorFlow&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logoColor=FFFFFF&logo=PyTorch&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Flutter-02569B?logoColor=FFFFFF&logo=Flutter&style=flat-square"> &nbsp;
   <br>
   <!-- CI/CD -->
   <img src="https://img.shields.io/badge/GitHub_Actions-181717?logoColor=FFFFFF&logo=github&style=flat-square"> &nbsp;
