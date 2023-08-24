@@ -25,8 +25,10 @@ I am a backend developer currently studying at Sunrin Internet High School.
   <img src="https://img.shields.io/badge/Xamarin-3498DB?logoColor=FFFFFF&logo=Xamarin&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Node.js-339933?logoColor=FFFFFF&logo=Node.js&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Express-000000?logoColor=FFFFFF&logo=express&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Nest.JS-E0234E?logoColor=FFFFFF&logo=NestJS&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/React-61DAFB?logoColor=FFFFFF&logo=React&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/ReactNative-61DAFB?logoColor=FFFFFF&logo=React&style=flat-square"> &nbsp;
+  <img src="https://img.shields.io/badge/Next.JS-000000?logoColor=FFFFFF&logo=Next.JS&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/Unity-000000?logoColor=FFFFFF&logo=Unity&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/TensorFlow-FF6F00?logoColor=FFFFFF&logo=TensorFlow&style=flat-square"> &nbsp;
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?logoColor=FFFFFF&logo=PyTorch&style=flat-square"> &nbsp;
