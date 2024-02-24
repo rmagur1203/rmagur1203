@@ -6,7 +6,8 @@
 </div>
 
 ## Introduction
-I am a backend developer currently studying at Sunrin Internet High School.
+Kyonggi University, Department of Computer Engineering, Class of 24
+Interested in artificial intelligence and security
 
 ## Tech Stacks
 
