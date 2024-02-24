@@ -7,6 +7,7 @@
 
 ## Introduction
 Kyonggi University, Department of Computer Engineering, Class of 24
+
 Interested in artificial intelligence and security
 
 ## Tech Stacks
