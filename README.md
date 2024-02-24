@@ -6,7 +6,7 @@
 </div>
 
 ## Introduction
-Kyonggi University, Department of Computer Engineering, Class of 24
+Kyonggi University, Department of Computer Science and Engineering, Class of 24
 
 Interested in artificial intelligence and security
 
